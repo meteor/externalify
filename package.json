@@ -1,6 +1,6 @@
 {
   "name": "externalify",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Browserify transform that lets you require external modules from any function that follows the require API.",
   "main": "index.js",
   "repository": {
